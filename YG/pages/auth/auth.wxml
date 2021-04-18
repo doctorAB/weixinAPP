@@ -1,0 +1,3 @@
+<button type="primary" plain="{{true}}" open-type="getUserInfo" bind:getuserinfo="handleGetUserInfo">
+    获取授权
+</button>
